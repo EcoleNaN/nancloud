@@ -38,8 +38,8 @@ Creations des dossier cdn
 creer deux dossiers dans le dossier nancloud
 Nom des dossiers
 
-media_cdn
-static_cdn
+media_cdn  droit 777
+static_cdn  droit 777
  
  
 ces dossier sont au meme niveau que le dossier 'cloudnan'
