@@ -30,12 +30,24 @@ Une fois django installer on va cloner le projet et lancer le projet
 ```bash
 $ git clone https://github.com/EcoleNaN/nancloud.git
 
-$ cd nancloud/cloudnan
-
+$ cd nancloud/
 
 ```
+Creations des dossier cdn
 
-On va installer les dependances necessaire pour le bon fonctionnement de cloud
+creer deux dossiers dans le dossier nancloud
+Nom des dossiers
+
+media_cdn
+static_cdn
+ 
+ 
+ces dossier sont au meme niveau que le dossier 'cloudnan'
+
+Ensuite
+
+
+On va installer les dependances necessaire pour le bon fonctionnement du cloud
 
 
 ```bash
